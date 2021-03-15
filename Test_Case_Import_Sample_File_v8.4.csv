@@ -1,0 +1,12 @@
+Summary,Priority,Labels,Fix Version/s,Component/s,Description,Requirement,Test Suite,Step ID,Step,Test Data,Expected Result
+It is the first Test Case,Highest,Add Your Label,JIRA Fix Version,JIRA Component,Test case description for the first test case,FRS-12,,1,It is the 1st step,Test Data 1st step,It is the expected result for 1st step
+,,,,,,,,2,It is the 2st step,Test Data 2nd step,It is the expected result for 2nd step
+,,,,,,,,3,It is the 3rd step,Test Data 3rd step,It is the expected result for 3rd step
+It is the second Test Case,Medium,Add Your Label,JIRA Fix Version,JIRA Component,Test case description for the second test case,FRS-12,New Suite 1,1,It is the 1st step,Test Data 1st step,It is the expected result for 1st step
+,,,,,,,,2,It is the 2st step,Test Data 2nd step,It is the expected result for 2nd step
+,,,,,,,,3,It is the 3rd step,Test Data 3rd step,It is the expected result for 3rd step
+It is the third Test Case,Low,Add Your Label,JIRA Fix Version,JIRA Component,Test case description for the third test case,FRS-13,New Suite 2,1,It is the 1st step,Test Data 1st step,It is the expected result for 1st step
+,,,,,,,,2,It is the 2st step,Test Data 2nd step,It is the expected result for 2nd step
+,,,,,,,,3,It is the 3rd step,Test Data 3rd step,It is the expected result for 3rd step
+,,,,,,,,4,It is the 4th step,Test Data 4th step,It is the expected result for 4th step
+,,,,,,,,5,It is the 5th step,Test Data 5th step,It is the expected result for 5th step
