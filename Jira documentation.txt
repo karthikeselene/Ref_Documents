@@ -1,0 +1,40 @@
+Link to register JIRA in cloud
+
+https://www.atlassian.com/try/cloud/signup?bundle=jira-software
+
+
+API design to :
+
+
+Create Issue - https://developer.atlassian.com/cloud/jira/platform/rest/#api-api-2-issue-post
+
+Edit Issue - https://developer.atlassian.com/cloud/jira/platform/rest/#api-api-2-issue-issueIdOrKey-put
+
+Delete Issue - https://developer.atlassian.com/cloud/jira/platform/rest/#api-api-2-issue-issueIdOrKey-delete
+
+Get Issue - https://developer.atlassian.com/cloud/jira/platform/rest/#api-api-2-issue-issueIdOrKey-get
+
+
+Pre-requisite for delete:
+
+Before deleting an issue, you need to set permissions. To do that go to users  ->  select your user ->  Add group -> jira-administrators -> Click Add group. Then you will have permission to delete the issue
+
+
+Remember, pass API key instead of password and username as your Jira email for Postman Authentication
+
+
+This is the body (json) for creating Jira issue
+
+{
+    "fields": {
+       "project":
+       {
+          "key": "RA"
+       },
+       "summary": "New Defect",
+       "description": "Creating of an issue using project keys and issue type names using the REST API",
+       "issuetype": {
+          "name": "Bug"
+       }
+   }
+}

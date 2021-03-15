@@ -1,0 +1,10 @@
+Team, plz complete these assignments before tomorrow's class
+1) Write a JS program to print all the even numbers from 1 to 10
+2) Write a JS program to to add all the numbers from 1 to 10
+3) Write a JS program to print any mathematics tables based on the input value
+4) Print the unique values alone in a String 
+	Ex: paypal 
+	O/P: yl
+5) Change Even Characters in a String 
+	For ex: Chennai
+	Expected O/P - ChEnNaI

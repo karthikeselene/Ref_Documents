@@ -1,0 +1,25 @@
+Bootcamp Assessment TestCase
+==========================
+Credentials: nupela@testleaf.com ; Bootcamp$123
+1. Login to https://login.salesforce.com
+2. Click on toggle menu button from the left corner
+3. Click view All 
+4. Click Service Console from App Launcher
+5. Select Files from the DropDown
+6. Click on Upload Files and browse a file from your local 
+7. Click on DropDown for the newly uploaded file and select View File Details
+8. Verify the file name and extension of the newly uploaded file
+9. Close the file window tab
+10. Click on the latest modified item link
+11. Click on Share 
+12. Click on search user and select the Derrick Dsouza
+13. Verify the Error message "Can't share file with the file owner." is displayed
+14. Cancel share by clicking on Cancel button
+15. Close the item dialog
+16. Click on DropDown for the newly uploaded file and select Delete
+17. Confirm Delete
+18. Verify the success message displayed for the delete
+
+
+ 
+
